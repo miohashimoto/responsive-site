@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*body----------------*/
+body {
+  font-size: 1.4rem;
+  font-family: "メイリオ", Meiryo, "游ゴシック", YuGothic, Verdana, "Hiragino Kaku Gothic ProN", sans-serif;
+  line-height: 1.6;
+  letter-spacing: 0.1em;
+  background-color: #fff; }
+
+div p h1 h2 h3 {
+  margin: 0;
+  padding: 0; }
+
+/*headder----------------*/
+#mainvisual {
+  background-image: url("./img/main.jpg");
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+  background-position: center center; }
+  #mainvisual h1 {
+    display: none; }
+
+/*# sourceMappingURL=style.css.map */
